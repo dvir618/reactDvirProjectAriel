@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://cdn.pixabay.com/photo/2014/06/03/19/27/business-361488_1280.jpg'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+}
+
+img{
+  width: 30px;
+  height: 30px;
+}
+#button1{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h1{
+  color: white;
+}
+
+p{
+  color: white;
+}
+
+input{
+  margin-bottom: 10px;
+}
